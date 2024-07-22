@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>REC20201016-134258176__000133_jpg.rf.d679c6c3f559235ed2403ca3cfab1cc1.jpg</filename>
+	<path>REC20201016-134258176__000133_jpg.rf.d679c6c3f559235ed2403ca3cfab1cc1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>135</xmin>
+			<xmax>428</xmax>
+			<ymin>70</ymin>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

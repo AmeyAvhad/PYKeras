@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>REC20201008-093430839__000044_jpg.rf.2048aa92458b86818e48600d28f45dc0.jpg</filename>
+	<path>REC20201008-093430839__000044_jpg.rf.2048aa92458b86818e48600d28f45dc0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>266</xmin>
+			<xmax>364</xmax>
+			<ymin>288</ymin>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>
