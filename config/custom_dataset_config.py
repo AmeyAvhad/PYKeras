@@ -2,7 +2,7 @@
 import os
 
 # Set the dataset base path here
-BASE_PATH = "C:\\Users\\Samjith.CP\\Desktop\\terrorist_detect\\dataset\\"
+BASE_PATH = "/content/PYKeras/dataset"
 
 # build the path to the annotations and input images
 ANNOT_PATH = os.path.sep.join([BASE_PATH, 'annotations'])
